@@ -1,0 +1,21 @@
+body{
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+}
+p{
+    margin-left:12px;
+    margin-top: 10px;
+}
+img{
+    width: 50px;
+}
+.icon{
+    width: 30px;
+}
+tr,td{
+    padding: 8px;
+}
+span{
+    color: dimgray;
+}
